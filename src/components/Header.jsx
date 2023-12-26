@@ -62,7 +62,7 @@ const Header = () => {
               <h2 className="price">{totalPrice ? totalPrice + ' $' : ''}</h2>
               <span>|</span>
 
-              <Link to="/cart">
+              <Link to="/react-shop-v2/cart">
                 <div className="cart">
                   <svg className="svg" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"
                        fill="none">
@@ -82,7 +82,7 @@ const Header = () => {
       <div className="header-row-2">
         <div className="container">
           <ul className="nav">
-            <li><Link to="/">Главная</Link></li>
+            <li><Link to="/react-shop-v2/">Главная</Link></li>
             <li>Lorem</li>
           </ul>
         </div>

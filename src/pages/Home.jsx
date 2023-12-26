@@ -27,7 +27,7 @@ const Home = () => {
       setIsLoading(true)
       const order = sortType.sortBy.includes('-') ? 'desc' : 'asc';
       const replace = sortType.sortBy.replace('-', '');
-
+      
       const itemsRes = await axios.get(
         `${url}?category=${categoryId}&sortBy=${replace}&order=${order}&page=${currentPage}&limit=4`);
       setItems(itemsRes.data)
@@ -54,7 +54,7 @@ const Home = () => {
       fetchItems();
     }
     isSearch.current = false
-    
+
   }, [categoryId, sortType, currentPage])
   
   React.useEffect(()=>{

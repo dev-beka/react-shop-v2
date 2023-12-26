@@ -44,7 +44,7 @@ const CardDetail = () => {
       <div className="link-description__canvas">
         <div className="container">
           <div className="link-description__flex">
-            <Link to="/">
+            <Link to="/react-shop-v2/">
               <h4>{`< `}{shoe.category}</h4>
             </Link>
             <span>|</span>

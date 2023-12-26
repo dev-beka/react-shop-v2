@@ -18,9 +18,9 @@ function App() {
         <BrowserRouter>
           <Header/>
           <Routes>
-            <Route path="/" element={<Home/>}/>
-            <Route path="/cart" element={<Cart/>}/>
-            <Route path="/shoes/:id" element={<CardDetail/>}/>
+            <Route path="/react-shop-v2/" element={<Home/>}/>
+            <Route path="/react-shop-v2/cart" element={<Cart/>}/>
+            <Route path="/react-shop-v2/shoes/:id" element={<CardDetail/>}/>
           </Routes>
         </BrowserRouter>
       </Context.Provider>

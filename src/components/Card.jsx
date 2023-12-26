@@ -5,7 +5,7 @@ const Card = ({id, name, images, price}) => {
   
   return (
     <div className="card-block">
-      <Link className="link" to={`/shoes/${id}`}>
+      <Link className="link" to={`/react-shop-v2/shoes/${id}`}>
         <div className="card-canvas">
           <div className="card-content">
             <div className="img-canvas">
