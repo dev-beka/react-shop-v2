@@ -1,0 +1,239 @@
+.link-description {
+  &__canvas {
+    border-bottom: solid 1px #d9d9d9;
+  }
+
+  &__flex {
+    white-space: nowrap;
+    line-height: 50px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    color: #656565;
+
+    a {
+      color: #656565;
+      text-decoration: none;
+      text-transform: uppercase;
+    }
+  }
+}
+//------------------------------------
+.card-detail-canvas {
+  margin-top: 30px;
+  display: flex;
+  gap: 50px;  
+}
+
+.size-display {
+  flex: 1;
+  color: #656565;
+  p{
+    margin-top: 10px;
+  }
+
+  .size-block-canvas {
+    user-select: none;
+    margin-top: 20px;
+    min-width: 300px;
+    max-width: 450px;
+    padding: 20px;
+    border: solid 1px #d9d9d9;
+
+    .choose-size-popup {
+      position: relative;
+      padding: 8px 5px 8px 14px;
+      border: solid 1px #d9d9d9;
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      h4 {
+        color: #656565;
+        font-weight: 500;
+        user-select: none
+      }
+
+      svg {
+        width: 32px;
+        height: 32px;
+      }
+    }
+
+    .popup-list-canvas.active{
+      display: block;
+    }
+    
+    .popup-list-canvas {
+      display: none;
+      width: 100%;
+      border: solid 1px #d9d9d9;
+      list-style: none;
+
+      li {
+        user-select: none;
+        cursor: pointer;
+        padding: 8px 14px;
+        &:hover{
+          background: #d9d9d9;
+        }
+      }
+    }
+
+    .add-to-cart-button{
+      user-select: none;
+      margin-top: 20px;
+      width: 100%;
+      background: #404040;
+      color: #fff;
+      padding: 8px;
+      font-size: 20px;
+      border: none;
+      cursor: pointer;
+      &:active{
+        background: #5b5b5b;
+      }
+    }
+  }
+}
+//----------------------------
+.product-detail-border{
+  border-bottom: solid  1px #d9d9d9;
+  h3{
+    margin: 10px 0;
+    color: #656565;
+  }
+}
+
+.product-detail-text{
+  margin-top: 10px;
+  color: #656565;
+}
+//----------------------------------------------------------------------
+@media (max-width: 425px) {
+  .link-description {
+    &__canvas {
+      border-bottom: solid 1px #d9d9d9;
+    }
+    
+    
+    &__flex {
+      white-space: nowrap;
+      line-height: 30px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      color: #656565;
+      .shoe-title-name{
+        display: none;
+      }
+      a {
+        color: #656565;
+        text-decoration: none;
+        text-transform: uppercase;
+        
+        h4{
+          //display: none;
+          font-size: 14px;
+        }
+      }
+    }
+  }
+  //------------------------------------
+  .card-detail-canvas {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .size-display {
+    flex: 1;
+    color: #656565;
+    p{
+      margin-top: 10px;
+    }
+
+    .size-block-canvas {
+      user-select: none;
+      margin-top: 10px;
+      min-width: 250px;
+      max-width: 450px;
+      padding: 20px;
+      border: solid 1px #d9d9d9;
+
+      .choose-size-popup {
+        position: relative;
+        padding: 8px 5px 8px 14px;
+        border: solid 1px #d9d9d9;
+        cursor: pointer;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        h4 {
+          color: #656565;
+          font-weight: 500;
+          user-select: none
+        }
+
+        svg {
+          width: 32px;
+          height: 32px;
+        }
+      }
+
+      .popup-list-canvas.active{
+        display: block;
+      }
+
+      .popup-list-canvas {
+        display: none;
+        width: 100%;
+        border: solid 1px #d9d9d9;
+        list-style: none;
+
+        li {
+          user-select: none;
+          cursor: pointer;
+          padding: 8px 14px;
+          &:hover{
+            background: #d9d9d9;
+          }
+        }
+      }
+
+      .add-to-cart-button{
+        user-select: none;
+        margin-top: 20px;
+        width: 100%;
+        background: #404040;
+        color: #fff;
+        padding: 8px;
+        font-size: 20px;
+        border: none;
+        cursor: pointer;
+        &:active{
+          background: #5b5b5b;
+        }
+      }
+    }
+  }
+  //----------------------------
+  .product-detail-border{
+    border-bottom: solid  1px #d9d9d9;
+    h3{
+      font-size: 14px;
+      margin: 10px 0;
+      color: #656565;
+    }
+  }
+
+  .product-detail-text{
+    margin-top: 10px;
+    color: #656565;
+    font-size: 12px;
+  }
+}
+

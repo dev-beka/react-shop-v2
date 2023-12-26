@@ -1,0 +1,15 @@
+﻿@import './variables';
+
+// components
+@import 'header';
+@import './card';
+@import './categories';
+@import './sort';
+@import './search';
+@import './pagination';
+@import './slider';
+
+// pages
+@import './home';
+@import './card-detail';
+@import './cart';

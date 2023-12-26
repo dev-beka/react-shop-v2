@@ -1,0 +1,462 @@
+﻿[
+  {
+    "id": "0",
+    "name": "AIR MAX 1 \"Patta - Monarch\"",
+    "images": [
+      {
+        "url": "https://img.stadiumgoods.com/nike-air-max-1-patta-monarch_17467214_43048525_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-air-max-1-patta-monarch_17467214_43048559_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-air-max-1-patta-monarch_17467214_43048571_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-air-max-1-patta-monarch_17467214_43048582_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-air-max-1-patta-monarch_17467214_43048589_2048.jpg"
+      }
+    ],
+    "price": 111,
+    "category": "nike"
+  },
+  {
+    "id": "1",
+    "name": "DUNK HIGH \"Bodega - Friends & Family\"",
+    "images": [
+      {
+        "url": "https://img.stadiumgoods.com/nike-dunk-high-bodega-friends-family_16439325_43117942_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-dunk-high-bodega-friends-family_16439325_43117960_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-dunk-high-bodega-friends-family_16439325_43117979_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-dunk-high-bodega-friends-family_16439325_43117996_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-dunk-high-bodega-friends-family_16439325_43115810_2048.jpg"
+      }
+    ],
+    "price": 185,
+    "category": "nike"
+  },
+  {
+    "id": "2",
+    "name": "TERMINATOR HIGH \"University Red\"",
+    "images": [
+      {
+        "url": "https://img.stadiumgoods.com/nike-terminator-high-university-red_20453516_45674169_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-terminator-high-university-red_20453516_45675412_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-terminator-high-university-red_20453516_45673552_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-terminator-high-university-red_20453516_45674175_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-terminator-high-university-red_20453516_45674178_2048.jpg"
+      }
+    ],
+    "price": 34,
+    "category": "nike"
+  },
+  {
+    "id": "3",
+    "name": "AIR TRAINER 1 \"Limestone\"",
+    "images": [
+      {
+        "url": "https://img.stadiumgoods.com/nike-air-trainer-1-limestone_19588744_43599792_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-air-trainer-1-limestone_19588744_43599795_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-air-trainer-1-limestone_19588744_43599798_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-air-trainer-1-limestone_19588744_43599802_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-air-trainer-1-limestone_19588744_43603383_2048.jpg"
+      }
+    ],
+    "price": 47,
+    "category": "nike"
+  },
+  {
+    "id": "4",
+    "name": "TERMINATOR HIGH \"Georgetown\"",
+    "images": [
+      {
+        "url": "https://img.stadiumgoods.com/nike-terminator-high-georgetown_19387094_43210204_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-terminator-high-georgetown_19387094_43211059_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-terminator-high-georgetown_19387094_43211066_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-terminator-high-georgetown_19387094_43211072_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-terminator-high-georgetown_19387094_43211075_2048.jpg"
+      }
+    ],
+    "price": 72,
+    "category": "nike"
+  },
+  {
+    "id": "5",
+    "name": "DUNK MID \"Social Status - Chocolate Milk\"",
+    "images": [
+      {
+        "url": "https://img.stadiumgoods.com/nike-dunk-mid-social-status-chocolate-milk_17305031_43040175_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-dunk-mid-social-status-chocolate-milk_17305031_43040186_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-dunk-mid-social-status-chocolate-milk_17305031_43040202_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-dunk-mid-social-status-chocolate-milk_17305031_43039758_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-dunk-mid-social-status-chocolate-milk_17305031_43039760_2048.jpg"
+      }
+    ],
+    "price": 144,
+    "category": "nike"
+  },
+  {
+    "id": "6",
+    "name": "DUNK HIGH SP \"Ambush - Deep Royal\"",
+    "images": [
+      {
+        "url": "https://img.stadiumgoods.com/nike-dunk-high-sp-ambush-deep-royal_16887238_43018414_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-dunk-high-sp-ambush-deep-royal_16887238_43019196_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-dunk-high-sp-ambush-deep-royal_16887238_43019197_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-dunk-high-sp-ambush-deep-royal_16887238_43019203_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-dunk-high-sp-ambush-deep-royal_16887238_43019214_2048.jpg"
+      }
+    ],
+    "price": 150,
+    "category": "nike"
+  },
+  {
+    "id": "7",
+    "name": "VAPORWAFFLE \"Sacai - Tour Yellow\"",
+    "images": [
+      {
+        "url": "https://img.stadiumgoods.com/nike-vaporwaffle-sacai-tour-yellow_15819555_43100592_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-vaporwaffle-sacai-tour-yellow_15819555_43100598_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-vaporwaffle-sacai-tour-yellow_15819555_43100604_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-vaporwaffle-sacai-tour-yellow_15819555_43099658_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-vaporwaffle-sacai-tour-yellow_15819555_43100617_2048.jpg"
+      }
+    ],
+    "price": 265,
+    "category": "nike"
+  },
+  {
+    "id": "8",
+    "name": "AIR FORCE 1 LOW SP \"Supreme - Wheat\"",
+    "images": [
+      {
+        "url": "https://img.stadiumgoods.com/nike-air-force-1-low-sp-supreme-wheat_17649954_43033334_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-air-force-1-low-sp-supreme-wheat_17649954_43033349_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-air-force-1-low-sp-supreme-wheat_17649954_43032187_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-air-force-1-low-sp-supreme-wheat_17649954_43032192_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-air-force-1-low-sp-supreme-wheat_17649954_43033375_2048.jpg"
+      }
+    ],
+    "price": 185,
+    "category": "nike"
+  },
+  {
+    "id": "9",
+    "name": "SB DUNK LOW PRO \"Fog\"",
+    "images": [
+      {
+        "url": "https://img.stadiumgoods.com/nike-sb-dunk-low-pro-fog_17666805_43044200_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-sb-dunk-low-pro-fog_17666805_43045130_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-sb-dunk-low-pro-fog_17666805_43045141_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-sb-dunk-low-pro-fog_17666805_43045150_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/nike-sb-dunk-low-pro-fog_17666805_43044211_2048.jpg"
+      }
+    ],
+    "price": 209,
+    "category": "nike"
+  },
+  {
+    "id": "10",
+    "name": "AIR JORDAN 12 RETRO \"Cherry 2023\"",
+    "images": [
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-12-retro-cherry-2023_20561877_47569153_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-12-retro-cherry-2023_20561877_47569163_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-12-retro-cherry-2023_20561877_47569172_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-12-retro-cherry-2023_20561877_47569177_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-12-retro-cherry-2023_20561877_47568426_2048.jpg"
+      }
+    ],
+    "price": 250,
+    "category": "jordan"
+  },
+  {
+    "id": "11",
+    "name": "AIR JORDAN 5 \"A Ma Maniére- Black\"",
+    "images": [
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-5-a-ma-maniere-black_20926708_47706709_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-5-a-ma-maniere-black_20926708_47706710_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-5-a-ma-maniere-black_20926708_47706711_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-5-a-ma-maniere-black_20926708_47706712_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-5-a-ma-maniere-black_20926708_47706713_2048.jpg"
+      }
+    ],
+    "price": 349,
+    "category": "jordan"
+  },
+  {
+    "id": "12",
+    "name": "AIR JORDAN 13 RETRO \"Playoffs 2023\"",
+    "images": [
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-13-retro-playoffs-2023_19642650_43804064_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-13-retro-playoffs-2023_19642650_43802738_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-13-retro-playoffs-2023_19642650_43803806_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-13-retro-playoffs-2023_19642650_43802740_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-13-retro-playoffs-2023_19642650_43804065_2048.jpg"
+      }
+    ],
+    "price": 169,
+    "category": "jordan"
+  },
+  {
+    "id": "13",
+    "name": "AIR JORDAN 6 GS \"Toro Bravo\"",
+    "images": [
+      {
+        "url": "https://img.stadiumgoods.com/jordan-kids-air-jordan-6-gs-toro-bravo_20315287_45669077_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-kids-air-jordan-6-gs-toro-bravo_20315287_45669089_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-kids-air-jordan-6-gs-toro-bravo_20315287_45668937_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-kids-air-jordan-6-gs-toro-bravo_20315287_45668966_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-kids-air-jordan-6-gs-toro-bravo_20315287_45668985_2048.jpg"
+      }
+    ],
+    "price": 95,
+    "category": "jordan"
+  },
+  {
+    "id": "14",
+    "name": "AIR JORDAN 1 RETRO HIGH OG \"J Balvin\"",
+    "images": [
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-1-retro-high-og-j-balvin_16154223_43100663_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-1-retro-high-og-j-balvin_16154223_43100670_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-1-retro-high-og-j-balvin_16154223_43099859_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-1-retro-high-og-j-balvin_16154223_43099874_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-1-retro-high-og-j-balvin_16154223_43099885_2048.jpg"
+      }
+    ],
+    "price": 505,
+    "category": "jordan"
+  },
+  {
+    "id": "15",
+    "name": "AIR JORDAN 1 HIGH OG WMNS \"Starfish\"",
+    "images": [
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-1-high-og-wmns-starfish_18549936_45633812_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-1-high-og-wmns-starfish_18549936_45634035_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-1-high-og-wmns-starfish_18549936_45633817_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-1-high-og-wmns-starfish_18549936_45633820_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-1-high-og-wmns-starfish_18549936_45633825_2048.jpg"
+      }
+    ],
+    "price": 135,
+    "category": "jordan"
+  },
+  {
+    "id": "16",
+    "name": "AIR JORDAN 5 RETRO SE \"UNC\"",
+    "images": [
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-5-retro-se-unc_19517470_44650763_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-5-retro-se-unc_19517470_44649746_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-5-retro-se-unc_19517470_44650764_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-5-retro-se-unc_19517470_44651214_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-5-retro-se-unc_19517470_44649750_2048.jpg"
+      }
+    ],
+    "price": 230,
+    "category": "jordan"
+  },
+  {
+    "id": "17",
+    "name": "AIR JORDAN 6 \"Aqua\"",
+    "images": [
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-6-aqua_21475261_47456966_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-6-aqua_21475261_47456972_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-6-aqua_21475261_47456975_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-6-aqua_21475261_47456981_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-6-aqua_21475261_47456984_2048.jpg"
+      }
+    ],
+    "price": 200,
+    "category": "jordan"
+  },
+  {
+    "id": "18",
+    "name": "AIR JORDAN 11 RETRO \"Cool Grey 2021\"",
+    "images": [
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-11-retro-cool-grey-2021_17565419_43047718_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-11-retro-cool-grey-2021_17565419_43047728_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-11-retro-cool-grey-2021_17565419_43047742_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-11-retro-cool-grey-2021_17565419_43048715_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-11-retro-cool-grey-2021_17565419_43047760_2048.jpg"
+      }
+    ],
+    "price": 315,
+    "category": "jordan"
+  },
+  {
+    "id": "19",
+    "name": "AIR JORDAN 13 \"Wolf Grey\"",
+    "images": [
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-13-wolf-grey_20162088_45334545_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-13-wolf-grey_20162088_45334545_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-13-wolf-grey_20162088_45334547_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-13-wolf-grey_20162088_45333610_2048.jpg"
+      },
+      {
+        "url": "https://img.stadiumgoods.com/jordan-air-jordan-13-wolf-grey_20162088_45333611_2048.jpg"
+      }
+    ],
+    "price": 189,
+    "category": "jordan"
+  }
+]
