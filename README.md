@@ -2,3 +2,4 @@
 - html, scss,
 - redux, context, react-router-dom, qs, axios, lodash
 - mockapi
+- адаптивная верстка 
