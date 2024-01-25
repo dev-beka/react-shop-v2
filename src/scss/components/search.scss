@@ -1,0 +1,35 @@
+﻿.input-canvas{
+  position: relative;
+}
+
+.input {
+  width: 350px;
+  padding: 3px 20px 3px 10px;
+  border-radius: 5px;
+  border: none;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 25px;
+}
+
+.clear-btn{
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  top: 2px;
+  right: 4px;
+  cursor: pointer;
+}
+
+@media (max-width: 425px){
+  .input-canvas{
+    
+  }
+  
+  .input {
+   width: 100%;
+  }
+
+  .clear-btn{
+  }
+}

@@ -1,0 +1,98 @@
+﻿.card-block{
+  justify-self: center;
+}
+
+.card-canvas {
+  font-family: $font-Inter;
+  max-width: 300px;
+  height: 274px;
+  border: solid 1px #D9D9D9;
+  border-radius: 11px;
+  padding: 10px;
+  cursor: pointer;
+  &:hover{
+    img{
+      transform: scale(1.05);
+      transition: transform .5s;
+    }
+  }
+
+  .card-content {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    row-gap: 8px;
+    h3 {
+     font-family: $font-Orbitron;
+      flex: 1;
+      font-size: 16px;
+    }
+
+    .card-items-flex {
+      display: flex;
+      justify-content: space-between;
+      p{
+        font-size: 14px;
+        color: #807d7d;
+        font-weight: 500;
+      }
+    }
+    
+    .img-canvas{
+      height: 166px;
+      overflow: hidden;
+      
+      img {
+        width: 278px;
+        transition: transform .5s;
+      }
+    }
+  }
+  
+}
+
+.link{
+  text-decoration: none;
+  color: #000;
+}
+
+.skeleton{
+  justify-self: center;
+}
+
+@media (max-width: 425px){
+  .card-canvas {
+    max-width: 160px;
+    height: 150px;
+    padding: 6px;
+
+    .card-content {
+      row-gap: 0;
+      h3{
+        font-family: $font-Inter;
+        font-size: 12px;
+        flex: 1;
+        text-align: center;
+      }
+
+      p{
+        text-align: center;
+        font-size: 11px;
+      }
+      .img-canvas {
+        height: 90px;
+        img{
+          max-width: 100%;
+          max-height: 90px;
+          transition: none;
+        }
+      }
+    }
+  }
+  
+  .skeleton{
+    width: 160px;
+    height: 150px;
+  }
+}
+

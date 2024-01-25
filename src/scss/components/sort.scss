@@ -1,0 +1,46 @@
+﻿.sort-filter {
+  position: relative;
+  display: flex;
+  align-items: center;
+
+  .sort-filter-button {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+  }
+
+  h3 {
+    user-select: none;
+    color: #000;
+    font-size: 18px;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+}
+
+@media (max-width: 425px){
+  .sort-filter {
+    .sort-filter-button {
+      svg{
+        width: 22px;
+        height: 22px;
+      }
+    }
+    
+    h3 {
+      user-select: none;
+      color: #000;
+      font-size: 14px;
+      font-weight: 500;
+      white-space: nowrap;
+    }
+    
+    .popup{
+      top: 26px;
+      li{
+        white-space: nowrap;
+        font-size: 14px;
+      }
+    }
+  }
+}
